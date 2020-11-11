@@ -1,0 +1,30 @@
+/* =====================================
+Custom style the Drop In UI, Override
+========================================*/
+
+.braintree-form__label {
+  color: #333 !important;
+  position: relative !important;
+  display: inline-block !important;
+  margin-bottom: .5rem !important;
+}
+
+.braintree-form {
+  border: none !important;
+  border-radius: 0px !important;
+}
+
+/* doesn't work since actual field is in an iframe
+.braintree-form__field {
+  height: 45px !important;
+  line-height: 50px !important;
+  padding: 0 20px !important;
+  border-radius: 0px !important;
+  color: #333 !important;
+  border: none !important;
+  background: #F6F7FB !important;
+}
+*/
+/*=============================
+	End Footer CSS
+===============================*/
